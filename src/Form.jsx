@@ -6,7 +6,7 @@ export const Form = () => {
     matricula: "",
     nombre: "",
     apellido: "",
-    edad: null,
+    edad: "",
     universidad: "",
     carrera: "",
   });
